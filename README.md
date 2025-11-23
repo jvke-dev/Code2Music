@@ -24,7 +24,7 @@ There is no backend included.
 Download or clone the project:
 
 ```bash
-git clone https://github.com/JVKE-KING/Code2Music.git
+git clone https://github.com/jvkedev/Code2Music.git
 ```
 
 Open index.html in your browser.
